@@ -132,7 +132,6 @@ Emitido por: Google · Plataforma: [Coursera](https://www.coursera.org/)
 ## 📚 Aulas do Programa Bolsa Futuro Digital (Backend Python)
 Este repositório reúne **aulas, exercícios e projetos práticos** da formação.
 
-**Estrutura (exemplo):**
 - 📁 `AULA_01` → Introdução e primeiros códigos em Python  
 - 📁 `AULA_02` → Variáveis, tipos de dados e operações  
 - 📁 `AULA_03` → Condições (if/else) e repetição  
