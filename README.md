@@ -1,166 +1,152 @@
-<!-- PERFIL README -->
-
 <h1 align="center">Claudia Torneiro 👩‍💻</h1>
+
 <p align="center">
-  <b>Backend em formação (Python & Java)</b><br/>
-  ⚖️ Direito + Tecnologia & Inovação Digital · LegalTech · GovTech · RegTech
+  <b>Dados & Backend Python (Django) | Gestão de Projetos | LegalTech & GovTech</b><br/>
+  Integração entre Direito, Tecnologia e Soluções Orientadas a Dados
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/claudiatorreiro">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <img alt="visitas" src="https://komarev.com/ghpvc/?username=claudiatorreiro&color=blueviolet&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=claudiatorreiro&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
 
 ## 👋 Sobre mim
-- ⚖️ Servidora Pública e **Advogada** especializada em **Direito Municipal**
-- 💻 Em **transição de carreira** para **Tecnologia**, com foco em **Backend (Python 🐍 & Java 🤖)**
-- 🚀 Participante do programa **Bolsa Futuro Digital – Backend Python (Softex PE)**
-- 📚 Apaixonada por unir **Direito + Tecnologia** para criar soluções de impacto social
+
+Sou advogada e servidora pública com atuação em **gestão territorial e regularização fundiária**, em processo estruturado de transição para a área de tecnologia.
+
+Minha trajetória foi construída na **resolução de problemas complexos, análise de cenários e tomada de decisão** — competências que hoje direciono para o desenvolvimento de soluções em **dados, backend e inteligência artificial**.
+
+Atualmente, estou focada em integrar:
+
+* 📊 **Análise de dados e geração de insights**
+* 💻 **Desenvolvimento backend com Python (Django)**
+* 📈 **Gestão de projetos e metodologias ágeis**
 
 ---
 
-## 🎓 Formação
-- Bacharel em **Direito** – especialização em **Direito Municipal Gestão e Governança**  
-- Interesse em iniciar **Graduação em Gestão da Tecnologia da Informação (GTI)**  
-  > Complementa a transição para Backend com visão de processos, projetos e governança de TI.
+## 🎯 Proposta de valor
+
+Combino experiência prática com formação técnica para:
+
+* Transformar dados em informação estratégica
+* Estruturar soluções tecnológicas aplicadas a problemas reais
+* Conectar conhecimento jurídico com inovação digital
+* Atuar com foco em impacto social (GovTech, LegalTech e RegTech)
 
 ---
 
-## 📜 Certificações & Cursos
+## 🎓 Formação & Desenvolvimento
 
-### ✅ Concluídos
-- 📊 [Google Data Analytics – Professional Certificate (Google/Coursera)](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
+* ⚖️ Bacharel em Direito – Especialização em Gestão e Governança no Direito Municipal
+* 🎓 Pós-graduação em **Gestão de Projetos e Metodologias Ágeis – Unialphaville** *(em andamento)*
 
-### ⏳ Em andamento
-- 🐍 Bolsa Futuro Digital – Backend Python (Softex PE)
-- 🎓 Graduação em Gestão da Tecnologia da Informação (planejada)
+### 🚀 Formação em Tecnologia
 
-### 🚧 Em breve
-- ⚙️ Introdução ao Git e GitHub (Alura)
-- 🐍 Python Essentials (Cisco Networking Academy)
+* 🐍 **Bolsa Futuro Digital – Backend Python com Django (Softex PE)** *(concluído)*
+  Desenvolvimento de aplicações web completas com Python e Django, incluindo modelagem de dados e regras de negócio
 
+* 📊 **Google Data Analytics – Professional Certificate (Google/Coursera)** *(concluído)*
+  Formação em análise de dados, SQL, visualização e tomada de decisão orientada a dados
 
+* 🐍 **Bootcamp FAP – Backend Python (Aponti Academy / Softex PE)**
+  Fase 1 (Fundamentos) – em fase final de conclusão
 
----
-
-### 🎓 Google Data Analytics – Professional Certificate
-
-[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?logo=google&logoColor=white)](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
-
-Emitido por: Google · Plataforma: [Coursera](https://www.coursera.org/)  
-- ✅ Curso 1: *Foundations: Data, Data, Everywhere*  
-- ✅ Curso 2: *Ask Questions to Make Data-Driven Decisions*  
-- ✅ Curso 3: *Prepare Data for Exploration*  
-- ✅ Curso 4: *Process Data from Dirty to Clean*  
-- ✅ Curso 5: *Analyze Data to Answer Questions*  
-- ✅ Curso 6: *Share Data Through the Art of Visualization*  
-- ✅ Curso 7: *Data Analysis with R Programming*  
-- ✅ Curso 8: *Capstone: Complete a Case Study*  
-
-🔗 [Ver certificado completo no Coursera](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
-
-> **Conteúdos:** lógica de análise de dados, perguntas orientadas a negócio, planilhas, noções de SQL, visualização de dados e tomada de decisão baseada em dados.
-
-
-
-
-
-
+* 📊 **Laboratória – Ativa sua Carreira (Dados e IA)** *(em andamento)*
+  Projetos práticos com dados reais, análise exploratória e construção de dashboards
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
-**Linguagens**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+## 🧩 Projeto em destaque
 
-**Backend**  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+### 🔥 Integral Wolf – ERP Web com Django
 
-**Banco de Dados**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+Sistema completo de gestão com aplicação real de regras de negócio.
 
-**Ferramentas**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+**Funcionalidades:**
 
----
+* Gestão de clientes, contratos e serviços
+* Controle financeiro (recebimentos e gastos)
+* Gestão de estoque
+* Dashboard com indicadores
 
-## 📊 Estatísticas
+**Diferenciais:**
 
-<div align="center">
+* Arquitetura MVT (Django)
+* Regras de negócio implementadas
+* Controle de permissões
+* Integração entre módulos
 
-| <img height="160" src="https://github-readme-stats.vercel.app/api?username=claudiatorreiro&show_icons=true&theme=dracula&count_private=true"/> | <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatorreiro&layout=compact&theme=dracula"/> | <img height="160" src="https://streak-stats.demolab.com?user=claudiatorreiro&theme=dracula"/> |
-|---|---|---|
-
-</div>
-
-
+**Stack:** Python · Django · SQLite · Bootstrap
 
 ---
 
-## 📂 Projetos em destaque
-- 🔹 [CRUD de Tarefas em Flask](https://github.com/claudiatorreiro/crud-flask) – *em construção*  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+## 🧩 Projetos em desenvolvimento
 
-- 🔹 [API de Cadastro de Imóveis](https://github.com/claudiatorreiro/api-imoveis) – *em construção*  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-- 🔹 [Dashboard de Dados Públicos](https://github.com/claudiatorreiro/dashboard-dados-publicos) – *em construção*  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white)
-
-
+* 🔹 API de Cadastro de Imóveis
+* 🔹 Dashboard de Dados Públicos
+* 🔹 Projetos de análise de dados (Spotify e Superstore)
 
 ---
 
-## 📚 Aulas do Programa Bolsa Futuro Digital (Backend Python)
-Este repositório reúne **aulas, exercícios e projetos práticos** da formação.
+## 🧠 Competências
 
-- 📁 `AULA_01` → Introdução e primeiros códigos em Python  
-- 📁 `AULA_02` → Variáveis, tipos de dados e operações  
-- 📁 `AULA_03` → Condições (if/else) e repetição  
-- 📁 `AULA_04` → Funções e boas práticas  
-- 📁 `AULA_05` → Estruturas de dados (listas, dicionários, tuplas)  
-- 📁 `AULA_06` → Exercícios de fixação  
-- 📁 `CRUD/` → Projeto prático: CRUD em Python (em andamento)  
-- 📁 `Exercicios/` → Desafios resolvidos
+**Dados & Análise**
+Análise exploratória · Interpretação de dados · Resolução de problemas
 
----
+**Backend**
+Python · Django · Estruturação de aplicações
 
-## 🎯 Objetivos
-- 🐍 Aprender Python **██████████ 100%**
-- 📊 Projetos práticos (CRUDs, APIs) **███░░░░░░░ 30%**
-- ✍️ Compartilhar evolução **███░░░░░░░ 25%**
+**Gestão**
+Projetos · Metodologias ágeis · Organização de processos
 
-## 🚀 Próximos passos
-- ⚡ Flask / FastAPI **░░░░░░░░░░ 0%**
-- 🗄️ API REST com banco de dados **░░░░░░░░░░ 0%**
-- ☁️ Deploy em cloud (Render / Railway) **░░░░░░░░░░ 0%**
-
-
-
+**Soft Skills**
+Comunicação · Liderança · Inteligência emocional · Trabalho em equipe
 
 ---
 
-## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiatorreiro)
-[![Email](https://img.shields.io/badge/Email-cgtorreiro%40hotmail.com-red)](mailto:cgtorreiro@hotmail.com)
+## ⚙️ Tecnologias
 
+**Em uso**
+Python · Django · Git · GitHub · SQL · Google Sheets
 
-_✨ “Transição de carreira não é ruptura, é reinvenção. Minha missão é unir Direito + Tecnologia para criar soluções de impacto social.”_
+**Em evolução**
+Power BI · APIs REST · Análise de Dados aplicada
+
+**Explorando**
+Inteligência Artificial · Machine Learning
+
+---
+
+## 🚀 Direcionamento profissional
+
+Busco oportunidades para atuar com:
+
+* Dados e análise estratégica
+* Desenvolvimento backend
+* Projetos com impacto social
+* Soluções tecnológicas aplicadas ao setor público
+
+---
+
+## 📬 Vamos nos conectar
+
+<p align="center">
+  <a href="(https://www.linkedin.com/in/claudia-torreiro-52b30056/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:cgtorreiro@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-red"/>
+  </a>
+</p>
+
+<p align="center">
+Aberta a conexões, oportunidades e trocas na área de tecnologia, dados e inovação 🚀
+</p>
+
+---
+
+✨ *“Minha transição de carreira não é uma ruptura — é a integração de competências para construir soluções com impacto real.”*
