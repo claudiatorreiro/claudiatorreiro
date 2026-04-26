@@ -1,4 +1,4 @@
-<h1 align="center">Claudia Torneiro 👩‍💻</h1>
+<h1 align="center">Claudia Torreiro 👩‍💻</h1>
 
 <p align="center">
   <b>Dados & Backend Python (Django) | Gestão de Projetos | LegalTech & GovTech</b><br/>
